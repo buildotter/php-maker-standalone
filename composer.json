@@ -1,0 +1,21 @@
+{
+    "name": "buildotter/php-maker-standalone",
+    "description": "Generate test data builder based on Buildotter Core",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "bin": [
+        "bin/buildotter-maker-standalone"
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1.0"
+        },
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
