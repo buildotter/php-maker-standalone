@@ -3,6 +3,15 @@
     "description": "Generate test data builder based on Buildotter Core",
     "type": "library",
     "license": "GPL-3.0-or-later",
+    "keywords": ["php", "testing", "test", "data", "builder", "maker", "generator"],
+    "homepage": "https://github.com/buildotter/php-maker-standalone",
+    "authors": [
+        {
+            "name": "Benjamin Rambaud",
+            "email": "beram.job@gmail.com",
+            "homepage": "https://brambaud.github.io/"
+        }
+    ],
     "bin": [
         "bin/buildotter-maker-standalone"
     ],
