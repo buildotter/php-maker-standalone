@@ -1,5 +1,10 @@
 # Buildotter Maker Standalone
 
+[![Tests](https://github.com/buildotter/php-maker-standalone-src/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/buildotter/php-maker-standalone-src/actions?workflow=tests)
+[![License](https://img.shields.io/github/license/buildotter/php-maker-standalone)](/LICENSE)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/buildotter/php-maker-standalone)](https://github.com/buildotter/php-maker-standalone/releases/latest)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-blue.svg?style=flat)](https://conventionalcommits.org)
+
 Generate test data builder based on [Buildotter Core](https://github.com/buildotter/php-core).
 
 This "standalone maker" tries to be agnostic of the framework you are using or not.
