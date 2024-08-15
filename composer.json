@@ -18,6 +18,9 @@
     "require": {
         "php": "^8.1"
     },
+    "suggest": {
+        "fakerphp/faker": "Generates fake data for you."
+    },
     "config": {
         "platform": {
             "php": "8.1.0"
