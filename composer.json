@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "buildotter/php-core": "^0.1.0"
+        "buildotter/php-core": "^0.2.0"
     },
     "suggest": {
         "fakerphp/faker": "Generates fake data for you."
